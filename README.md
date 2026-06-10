@@ -87,30 +87,6 @@ The implemented system includes:
 
 ---
 
-# Repository Structure
-
-```text
-transmitter/
-    source_coding/
-    channel_coding/
-    modulation/
-    pulse_shaping/
-
-receiver/
-    synchronization/
-    demodulation/
-    decoding/
-
-experiments/
-figures/
-results/
-utils/
-
-main_tx.py
-main_rx.py
-```
-
----
 
 # Implemented Communication Blocks
 
